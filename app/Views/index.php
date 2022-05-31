@@ -326,7 +326,7 @@
                                     <!-- Portfolio Item 1 -->
                                     <figure class="item" data-groups='["all", "php2d"]'>
                                         <a class="ajax-page-load" href="siadit.html">
-                                            <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/siadit/1.png" alt="">
+                                            <img src="<?= base_url(); ?>/assets/images/portfolio/siadit/1.png" alt="">
                                             <div>
                                                 <h5 class="name">SiAdit</h5>
                                                 <small>Website</small>
@@ -338,7 +338,7 @@
                                     <!-- Portfolio Item 2 -->
                                     <figure class="item" data-groups='["all", "tugas"]'>
                                         <a class="ajax-page-load" href="sifarmasi.html">
-                                            <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/sifarmasi/1.png" alt="">
+                                            <img src="<?= base_url(); ?>/assets/images/portfolio/sifarmasi/1.png" alt="">
                                             <div>
                                                 <h5 class="name">SiFarmasi</h5>
                                                 <small>Website</small>
@@ -350,7 +350,7 @@
                                     <!-- Portfolio Item 3 -->
                                     <figure class="item" data-groups='["all", "hmti"]'>
                                         <a class="ajax-page-load" href="hitech.html">
-                                            <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/hitech/1.png" alt="">
+                                            <img src="<?= base_url(); ?>/assets/images/portfolio/hitech/1.png" alt="">
                                             <div>
                                                 <h5 class="name">Hi-Tech HMTI Udinus 2021</h5>
                                                 <small>Website</small>
@@ -362,7 +362,7 @@
                                     <!-- Portfolio Item 4 -->
                                     <figure class="item" data-groups='["all", "hmti"]'>
                                         <a class="ajax-page-load" href="semnasti.html">
-                                            <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/semnasti/1.png" alt="">
+                                            <img src="<?= base_url(); ?>/assets/images/portfolio/semnasti/1.png" alt="">
                                             <div>
                                                 <h5 class="name">SEMNASTI HMTI Udinus 2021</h5>
                                                 <small>Website</small>
