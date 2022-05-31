@@ -18,22 +18,22 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="<?= base_url(); ?>/assets/images/portfolio/semnasti/1.png" alt="">
+                        <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/semnasti/1.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?= base_url(); ?>/assets/images/portfolio/semnasti/2.png" alt="">
+                        <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/semnasti/2.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?= base_url(); ?>/assets/images/portfolio/semnasti/3.png" alt="">
+                        <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/semnasti/3.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?= base_url(); ?>/assets/images/portfolio/semnasti/4.png" alt="">
+                        <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/semnasti/4.png" alt="">
                     </div>
                 </div>
 
                 <!--
                 <div class="portfolio-page-image">
-                    <img src="<?= base_url(); ?>/assets/images/portfolio/1.jpg" alt="">
+                    <img src="https://storage.cloud.google.com/newtaskbucket/portfolio/1.jpg" alt="">
                 </div>
                 -->
 
