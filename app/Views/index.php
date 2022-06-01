@@ -39,7 +39,7 @@
         <!-- Header -->
         <header id="site_header" class="header mobile-menu-hide header-color-light">
             <div class="my-photo tilt-effect">
-                <img src="<?= base_url(); ?>/assets/images/photo.png" alt="image">
+                <img src="https://storage.cloud.google.com/newtaskbucket/assets/images/photo.png" alt="image">
             </div>
 
             <div class="site-title-block">
@@ -87,7 +87,7 @@
         <!-- Main Content -->
         <div id="main" class="site-main">
             <!-- Page changer wrapper -->
-            <div class="pt-wrapper" style="background-image: url(<?= base_url(); ?>/assets/images/bg.png);">
+            <div class="pt-wrapper" style="background-image: url(https://storage.cloud.google.com/newtaskbucket/assets/images/bg.png);">
                 <!-- Subpages -->
                 <div class="subpages">
 
@@ -126,7 +126,7 @@
                             <div class="row">
                                 <div class="col-sm-6 col-md-6 col-lg-4 subpage-block">
                                     <div class="my-photo-block tilt-effect">
-                                        <img src="<?= base_url(); ?>/assets/images/photo.png" alt="">
+                                        <img src="https://storage.cloud.google.com/newtaskbucket/assets/images/photo.png" alt="">
                                     </div>
                                 </div>
 
@@ -326,7 +326,7 @@
                                     <!-- Portfolio Item 1 -->
                                     <figure class="item" data-groups='["all", "php2d"]'>
                                         <a class="ajax-page-load" href="siadit.html">
-                                            <img src="<?= base_url(); ?>/assets/images/portfolio/siadit/1.png" alt="">
+                                            <img src="https://storage.cloud.google.com/newtaskbucket/assets/images/portfolio/siadit/1.png" alt="">
                                             <div>
                                                 <h5 class="name">SiAdit</h5>
                                                 <small>Website</small>
@@ -338,7 +338,7 @@
                                     <!-- Portfolio Item 2 -->
                                     <figure class="item" data-groups='["all", "tugas"]'>
                                         <a class="ajax-page-load" href="sifarmasi.html">
-                                            <img src="<?= base_url(); ?>/assets/images/portfolio/sifarmasi/1.png" alt="">
+                                            <img src="https://storage.cloud.google.com/newtaskbucket/assets/images/portfolio/sifarmasi/1.png" alt="">
                                             <div>
                                                 <h5 class="name">SiFarmasi</h5>
                                                 <small>Website</small>
@@ -350,7 +350,7 @@
                                     <!-- Portfolio Item 3 -->
                                     <figure class="item" data-groups='["all", "hmti"]'>
                                         <a class="ajax-page-load" href="hitech.html">
-                                            <img src="<?= base_url(); ?>/assets/images/portfolio/hitech/1.png" alt="">
+                                            <img src="https://storage.cloud.google.com/newtaskbucket/assets/images/portfolio/hitech/1.png" alt="">
                                             <div>
                                                 <h5 class="name">Hi-Tech HMTI Udinus 2021</h5>
                                                 <small>Website</small>
@@ -362,7 +362,7 @@
                                     <!-- Portfolio Item 4 -->
                                     <figure class="item" data-groups='["all", "hmti"]'>
                                         <a class="ajax-page-load" href="semnasti.html">
-                                            <img src="<?= base_url(); ?>/assets/images/portfolio/semnasti/1.png" alt="">
+                                            <img src="https://storage.cloud.google.com/newtaskbucket/assets/images/portfolio/semnasti/1.png" alt="">
                                             <div>
                                                 <h5 class="name">SEMNASTI HMTI Udinus 2021</h5>
                                                 <small>Website</small>
